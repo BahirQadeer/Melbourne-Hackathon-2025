@@ -25,7 +25,7 @@ GOOGLE DRIVE LINK: https://drive.google.com/file/d/1SCy8Fp0U-5c_hJ9ZbfJY6O8PHGOe
 git clone https://github.com/BahirQadeer/Melbourne-Hackathon-2025.git
 cd smartscribe
 
-###2. Create a Python virtual environment and activate it
+###2. Create a Python virtual environment and activate it (Visual Studio Code is Recommended)
 python3 -m venv venv
 
 #(on mac)
