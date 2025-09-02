@@ -14,6 +14,8 @@ It uses:
 - 📄 ReportLab for generating clean, professional PDFs  
 
 ---
+GOOGLE DRIVE LINK: https://drive.google.com/file/d/1SCy8Fp0U-5c_hJ9ZbfJY6O8PHGOeGEAC/view?usp=sharing
+---
 
 ## 🚀 Setup Instructions (Step by Step)
 
